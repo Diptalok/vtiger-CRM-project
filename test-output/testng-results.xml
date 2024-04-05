@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T15:43:22 IST" name="Default suite" finished-at="2024-03-27T15:44:17 IST" duration-ms="55117">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="Contact_Scenario.Create()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" name="Create" class="vtiger_CRM_testNG.Contact_Scenario"/>
+      </group> <!-- RegressionSuite -->
+      <group name="SmokeSuite">
+        <method signature="Contact_Scenario.Create()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" name="Create" class="vtiger_CRM_testNG.Contact_Scenario"/>
+      </group> <!-- SmokeSuite -->
+    </groups>
+    <test started-at="2024-03-27T15:43:22 IST" name="Default test" finished-at="2024-03-27T15:44:17 IST" duration-ms="55117">
+      <class name="vtiger_CRM_testNG.Contact_Scenario">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:43:22 IST" name="bsConfig" finished-at="2024-03-27T15:43:22 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:43:22 IST" name="bcConfig" finished-at="2024-03-27T15:43:26 IST" duration-ms="4189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:43:26 IST" name="bmConfig" finished-at="2024-03-27T15:43:31 IST" duration-ms="4919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="Create()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:43:31 IST" name="Create" finished-at="2024-03-27T15:44:01 IST" duration-ms="29453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:44:01 IST" name="amConfig" finished-at="2024-03-27T15:44:04 IST" duration-ms="3362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:44:04 IST" name="bmConfig" finished-at="2024-03-27T15:44:09 IST" duration-ms="4917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="sample()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:44:09 IST" name="sample" finished-at="2024-03-27T15:44:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:44:09 IST" name="amConfig" finished-at="2024-03-27T15:44:16 IST" duration-ms="7275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:44:16 IST" name="acConfig" finished-at="2024-03-27T15:44:17 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger_CRM_testNG.Contact_Scenario@1c5920df]" started-at="2024-03-27T15:44:17 IST" name="asConfig" finished-at="2024-03-27T15:44:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vtiger_CRM_testNG.Contact_Scenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
